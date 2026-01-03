@@ -1,5 +1,6 @@
 {
-    "homepage": "https://krupenshingala.github.io/textUtils-React",
+    "homepage":  "https://krupenshingala.github.io/TextUtils-React",
+
     "name": "textutils",
     "version": "0.1.0",
     "private": true,
